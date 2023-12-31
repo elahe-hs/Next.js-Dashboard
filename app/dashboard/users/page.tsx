@@ -43,7 +43,7 @@ const Users = ({placeholder}) => {
                 <td>active</td>
                 <td>
                     <div className={styles.users_buttons}>
-                    <Link href='/'>
+                    <Link href='/test'>
                         <button className={`${styles.users_button} ${styles.users_view}`}>
                             view
                         </button>
